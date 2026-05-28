@@ -1,4 +1,5 @@
 class Solution {
+    //initial
     public long gridGame(int[][] grid) {
         long top = 0;
         for (int i = 0; i < grid[0].length; i++) {
